@@ -289,7 +289,7 @@ RouterA# show interfaces f2/0
 ## Read the Full Article
 
 For the complete walkthrough with explanation of every concept:  
-📖 [Static Routing with Backup Links — Dev.to](https://dev.to/almahmudkhalif/)
+📖 [Static Routing with Backup Links — Dev.to](https://dev.to/almahmudkhalif/lab-task-3-static-routing-with-backup-links-how-routers-automatically-recover-from-failures-1hj7)
 
 ---
 
